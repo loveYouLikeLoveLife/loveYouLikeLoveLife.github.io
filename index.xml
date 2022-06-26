@@ -6,14 +6,23 @@
     <description>Recent content on My New Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 19:33:45 +0800</lastBuildDate><atom:link href="http://loveYouLikeLoveLife.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 20:41:07 +0800</lastBuildDate><atom:link href="http://loveYouLikeLoveLife.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test1</title>
+      <link>http://loveYouLikeLoveLife.github.io/posts/test1/</link>
+      <pubDate>Sun, 26 Jun 2022 20:41:07 +0800</pubDate>
+      
+      <guid>http://loveYouLikeLoveLife.github.io/posts/test1/</guid>
+      <description>测试有多个文件 这里测试有多个文件时，网站的摆放情况。</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>http://loveYouLikeLoveLife.github.io/posts/test/</link>
       <pubDate>Sun, 26 Jun 2022 19:33:45 +0800</pubDate>
       
       <guid>http://loveYouLikeLoveLife.github.io/posts/test/</guid>
-      <description>这是一篇文章 </description>
+      <description>这是一篇测试文章 今天是2022/6/26日，终于调试好我的静态博客网站，虽然昨天就好了，但是效果不太好并且不太好用，今天看教程使用hugo管理网站还是比较快的。就是使用markdown感觉不太好使，后面看看教程应该可以。</description>
     </item>
     
   </channel>
